@@ -12,8 +12,11 @@ I’m a frontend developer,BTech student in Computer science and Engineering at 
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<br/>
+
+
 #
+
+
 ### 📊 Stats
 
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammed770&show_icons=true&theme=gruvbox)
