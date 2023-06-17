@@ -29,7 +29,5 @@ I’m a frontend developer,BTech student in Computer science and Engineering at 
 <br>
 <br>
 
-### 📊 Stats
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammed770&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 #
