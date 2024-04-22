@@ -4,7 +4,7 @@
 I’m a fullstack developer,BTech student in Computer science and Engineering at [GEC Thrissur](https://gectcr.ac.in/), I specialize in efficient React apps and CSS & HTML that just work across all platforms and browsers. I care deeply about building interfaces that are usable and pleasant for the most number of people possible,proficient in Nextjs for building high perfomance SEO friendly applications.Contributing to the world for its brighter future.
 
 ---
-<a href="https://gitroll.io/profile/ulW74iEeDcYYFycCmXXgzI3vwT7j2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulW74iEeDcYYFycCmXXgzI3vwT7j2" alt="GitRoll Profile Badge"/> </a>
+
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/0xMuhammed770#gh-light-mode-only)
