@@ -1,7 +1,7 @@
 ### Hi there, I am Muhammed 👋
 
 <br>
-I’m a fullstack developer,BTech student in Computer science and Engineering at [GEC Thrissur](https://gectcr.ac.in/), I specialize in efficient React apps and CSS & HTML that just work across all platforms and browsers. I care deeply about building interfaces that are usable and pleasant for the most number of people possible,proficient in Nextjs for building high perfomance SEO friendly applications.Contributing to the world for its brighter future.
+Fullstack developer - web and mobile apps,React.js,Next.js,React Native .. 
 
 ---
 <a href="https://gitroll.io/profile/ulW74iEeDcYYFycCmXXgzI3vwT7j2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulW74iEeDcYYFycCmXXgzI3vwT7j2" alt="GitRoll Profile Badge muhammed770"/></a>
