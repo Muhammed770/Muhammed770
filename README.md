@@ -31,6 +31,7 @@ Fullstack developer - web and mobile apps, React.js, Next.js, React Native ..
 <br>
 <br>
  <p><img src="https://github-readme-stats.vercel.app/api?username=muhammed770&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed770&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
  
 
