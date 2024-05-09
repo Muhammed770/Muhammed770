@@ -16,9 +16,7 @@ Fullstack developer - web and mobile apps, React.js, Next.js, React Native ..
 [![website](./img/instagram-light.svg)](https://www.instagram.com/muhamme.d_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhamme.d_#gh-dark-mode-only)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed770&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=muhammed770&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
- 
+
 ### 🧰 Languages and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -32,6 +30,8 @@ Fullstack developer - web and mobile apps, React.js, Next.js, React Native ..
 
 <br>
 <br>
-
+ <p><img src="https://github-readme-stats.vercel.app/api?username=muhammed770&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed770&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ 
 
 #
