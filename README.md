@@ -5,7 +5,7 @@
 - ✨ Fullstack developer - web /web3 now onto AI/ML 
 
 
-- 📫 How to reach me **muhammedvengalath@gmail.com**
+- 📫 How to reach me: **muhammedvengalath@gmail.com**
   
 ---
 
