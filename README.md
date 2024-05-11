@@ -1,8 +1,8 @@
 ### Hi there, I am Muhammed 👋
 
 <br>
-Fullstack developer - web and mobile apps, React.js, Next.js, React Native .. 
-
+- ✨ Fullstack developer - web /web3 now onto AI/ML 
+- 📫 How to reach me **muhammedvengalath@gmail.com**
 ---
 
 
