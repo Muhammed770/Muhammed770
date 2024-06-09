@@ -36,9 +36,9 @@
 <br>
 <br>
 
- <p><img src="https://github-readme-stats.vercel.app/api?username=muhammed770&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="muhammed770's Stats " /></p>
- <p><img src=" https://github-readme-streak-stats.herokuapp.com/?user=muhammed770&theme=dark&hide_border=true" alt="muhammed770's Streak" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed770&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=muhammed770&theme=react&show_icons=true&hide_border=true&count_private=true" alt="muhammed770's Stats " /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed770&theme=react&hide_border=true" alt="muhammed770's Streak" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed770&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" /></p>
  
 
 #
